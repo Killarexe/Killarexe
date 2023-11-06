@@ -9,19 +9,15 @@ I have 3 years of experience in developpement. I did many projects and you can s
 
 # My Projects
 
-I'm working currently on 3 projects:
+Here is my current working projets:
 
-- A 2D Platformer game named [Little Rage](https://github.com/Killarexe/Little-Rage)
+[![Little Rage Card](https://github-readme-stats.vercel.app/api/pin/?username=Killarexe&repo=Little-Rage&theme=tokyonight)](https://github.com/Killarexe/Little-Rage) [![Dimensional Expansion Card](https://github-readme-stats.vercel.app/api/pin/?username=Killarexe&repo=Dimensional-Expansion&theme=tokyonight)](https://github.com/Killarexe/Dimensional-Expansion)
 
-- A Minecraft mod named [Dimensional Expansion](https://github.com/Killarexe/Dimensional-Expansion)
 
-- Custom CPU named [SPU](https://github.com/Killarexe/SPU-Assembler)
-
-If you want to see my other projects go in my github profile or my [itch.io profile](https://killarexe.itch.io).
+If you want to see my other projects check my **[repositories](https://github.com/Killarexe?tab=repositories)** or my **[itch.io profile](https://killarexe.itch.io)**.
 
 --------
-[![Killarexe's github stats](https://github-readme-stats.vercel.app/api?username=Killarexe&theme=blue-green)](https://github.com/Killarexe/github-readme-stats)
 
-[![Killarexe's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Killarexe&theme=blue-green)](https://github.com/Killarexe/github-readme-streak-stats)
+# More info/stats about me...
 
-[![Killarexe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Killarexe&theme=blue-green)](https://github.com/Killarexe/github-readme-stats)
+[![Killarexe's github stats](https://github-readme-stats.vercel.app/api?username=Killarexe&theme=tokyonight)](https://github.com/Killarexe) [![Killarexe's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Killarexe&theme=tokyonight)](https://github.com/Killarexe)[![Killarexe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Killarexe&theme=tokyonight)](https://github.com/Killarexe)
