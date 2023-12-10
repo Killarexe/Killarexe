@@ -16,6 +16,8 @@ Here is my current working projets:
 
 If you want to see my other projects check my **[repositories](https://github.com/Killarexe?tab=repositories)** or my **[itch.io profile](https://killarexe.itch.io)**.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y5S1I7B)
+
 --------
 
 # More info/stats about me...
