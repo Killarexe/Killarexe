@@ -1,11 +1,11 @@
 # Who I'm I?
-Hello I'm Killar.exe and I'm a french indie developper on Games, Minecraft Mod and Website.
+Hello I'm Killar.exe and I'm a french indie developper on Games, Minecraft Mod.
 
 I have been working on different type of projects: Games, Softwares, Retro Games, Websites, etc...
 
-My main language is currently Java but I have learned many languages like: Python, Rust, C and even some 6502 Assembly
+My main language is currently Java but I have learned many languages like: Rust, C, C#, GDScript and even some x86/6502 Assembly
 
-I have 3 years of experience in developpement. I did many projects and you can see [here](https://github.com/Killarexe?tab=repositories).
+I have 5 years of experience in developpement. I did many projects and you can see [here](https://github.com/Killarexe?tab=repositories).
 
 # My Projects
 
