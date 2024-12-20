@@ -1,4 +1,4 @@
-# Who I'm I?
+# Who am I?
 Hello I'm Killar.exe and I'm a french indie developper on Games, Minecraft Mod.
 
 I have been working on different type of projects: Games, Softwares, Retro Games, Websites, etc...
